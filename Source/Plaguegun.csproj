@@ -42,8 +42,8 @@
     <None Include="..\Common\Patches\**" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties\Plaguebullet.cs" />
-    <Compile Include="Properties\Plaguebulletproper.cs" />
+    <Compile Include="Plaguebullet.cs" />
+    <Compile Include="Plaguebulletproper.cs" />
     <Compile Include="Plaguegun.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
